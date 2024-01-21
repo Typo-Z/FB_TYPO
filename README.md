@@ -38,4 +38,8 @@
 <img width="51%" src="https://github.com/Typo-Z/FB_TYPO/blob/main/up1.jpg"/>
 </p>
 
+##UNTUK HASIL TES SENDIRI
+
+<button>Kontol</button>
+
 
