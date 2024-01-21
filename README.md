@@ -1,6 +1,6 @@
 
 <p align="center">
-<a href="#"><img title="Zphisher" src="https://github.com/Typo-Z/FB_TYPO/blob/main/_d6a010c8-6beb-4e96-bac2-8f0381420f75.jpeg"></a>
+<a href="#"><img title="typo" width="30%" src="https://github.com/Typo-Z/FB_TYPO/blob/main/_d6a010c8-6beb-4e96-bac2-8f0381420f75.jpeg"></a>
 </p>
 
 ## Installation :
