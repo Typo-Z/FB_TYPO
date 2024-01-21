@@ -12,7 +12,7 @@
 
 <br>
 <p align="center">
-<img width="40%" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/zphisher1.png"/>
+<img width="40%" src="https://github.com/Typo-Z/FB_TYPO/blob/main/up.jpg"/>
 <img width="51%" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/zphisher2.png"/>
 </p>
 
