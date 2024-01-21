@@ -6,7 +6,7 @@
 ## Installation :
 # git clone https://github.com/Typo-Z/FB_TYPO.git
 # cd FB_TYPO
-# python em.py
+# python fb_typo.py
 # git pull
 
 #
@@ -30,7 +30,7 @@
 # termux-setup-storage
 # git clone https://github.com/Typo-Z/FB_TYPO.git
 # cd FB_TYPO
-# python em.py
+# python fb_typo.py
 # git pull
 <br>
 <p align="center">
