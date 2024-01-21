@@ -4,7 +4,10 @@
 </p>
 
 ## Installation :
-
+# git clone https://github.com/Typo-Z/FB_TYPO.git
+# cd FB_TYPO
+# python em.py
+# git pull
 
 
 ##   Untuk Yang Baru Main Termux Tempel Perintah Di Bawah
@@ -25,10 +28,10 @@
 # pip install proxy
 # pip install telethon
 # termux-setup-storage
-# 
-# 
-# 
-# 
+# git clone https://github.com/Typo-Z/FB_TYPO.git
+# cd FB_TYPO
+# python em.py
+# git pull
 <br>
 <p align="center">
 <img width="40%" src="https://github.com/Typo-Z/FB_TYPO/blob/main/up.jpg"/>
