@@ -8,24 +8,27 @@
 
 
 ##   Untuk Yang Baru Main Termux Tempel Perintah Di Bawah
-$ pkg update && pkg upgrade 
-$ pkg install git
-$ pkg install python
-$ pip install stdiomask
-$ pip install requests
-$ pip install bs4
-$ pip install simplejson
-$ pip install requests
-pip install futures
-pip install rich
-pip install mechanize
-pip install cython
-pip install licensing
-pip install colorama
-pip install proxy
-pip install telethon
-termux-setup-storage
-
+# pkg update && pkg upgrade 
+# pkg install git
+# pkg install python
+# pip install stdiomask
+# pip install requests
+# pip install bs4
+# pip install simplejson
+# pip install requests
+# pip install futures
+# pip install rich
+# pip install mechanize
+# pip install cython
+# pip install licensing
+# pip install colorama
+# pip install proxy
+# pip install telethon
+# termux-setup-storage
+# 
+# 
+# 
+# 
 <br>
 <p align="center">
 <img width="40%" src="https://github.com/Typo-Z/FB_TYPO/blob/main/up.jpg"/>
