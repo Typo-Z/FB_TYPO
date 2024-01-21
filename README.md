@@ -9,8 +9,8 @@
 # python em.py
 # git pull
 
-
-##   Untuk Yang Baru Main Termux Tempel Perintah Di Bawah
+#
+##   Untuk Yang Baru Main Termux Tempel Perintah Di Bawah :
 # pkg update && pkg upgrade 
 # pkg install git
 # pkg install python
