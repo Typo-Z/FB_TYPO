@@ -9,11 +9,11 @@
 
 ##   Untuk Yang Baru Main Termux Tempel Perintah Di Bawah
 pkg update && pkg upgrade 
-pkg install git
-pkg install python
-pip install stdiomask
-pip install requests
-pip install bs4
+ pkg install git
+  pkg install python
+   pip install stdiomask
+     pip install requests
+      pip install bs4
 pip install simplejson
 pip install requests
 pip install futures
